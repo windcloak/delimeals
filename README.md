@@ -17,7 +17,7 @@ Or you can filter the meals.
 
 <img src="assets/images/demo2.gif">
 
-#What I Learned
+# What I Learned
 
 ## Setting up the page
 - Add const to things that won't be rebuilt (eg title appbar)
