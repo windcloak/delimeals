@@ -1,7 +1,19 @@
 # delimeals
- Meal recipe app with filters and navigation
-Based off Max's Flutter & Dart- The Complete Guide on Udemy
-Navigation module
+This is a meal recipe app with filters and navigation. You can change the filters to only look at certain types of receipes (e.g. vegan only), and you can add recipes to your Favorites section.
+
+I followed Adademind's Flutter & Dart- The Complete Guide tutorial to make this. This is part of his Navigation module.
+
+# How to Install
+Open in Visual Studio Code, and run `flutter pub get` to get packages
+
+Ctrl + F5 or `flutter run` to open the app on a real android/iphone device or a simulator.
+
+# Preview
+You can favorite a meal.
+<img src="assets/images/demo1.gif">
+
+Or you can filter the meals.
+<img src="assets/images/demo2.gif">
 
 # Navigation basics
 - Screens (or Routes, Pages) are widgets
